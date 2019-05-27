@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Welcome</title>
+    <link>http://cs.duke.edu/~animeshs/publication_types/1/</link>
+    <description>Recent content in 1 on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Animesh Srivastava</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~animeshs/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>http://cs.duke.edu/~animeshs/publication/camforensics/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cs.duke.edu/~animeshs/publication/camforensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ePrivateEye: To the Edge and Beyond!</title>
+      <link>http://cs.duke.edu/~animeshs/publication/eprivateeye/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cs.duke.edu/~animeshs/publication/eprivateeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What You Mark is What Apps See</title>
+      <link>http://cs.duke.edu/~animeshs/publication/privateeye/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cs.duke.edu/~animeshs/publication/privateeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Step-by-step detection of personally collocated mobile devices</title>
+      <link>http://cs.duke.edu/~animeshs/publication/colocation/</link>
+      <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cs.duke.edu/~animeshs/publication/colocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If You See Something, Swipe towards It: Crowdsourced Event Localization Using Smartphones</title>
+      <link>http://cs.duke.edu/~animeshs/publication/isee/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cs.duke.edu/~animeshs/publication/isee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
