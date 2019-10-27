@@ -1,4 +1,4 @@
-baseurl = "http://cs.duke.edu/~animeshs/"  # End your URL with a `/` trailing slash.
+baseurl = ""  # End your URL with a `/` trailing slash.
 title = "Welcome"
 copyright = "&copy; 2017 Animesh Srivastava"
 theme = "academic"
@@ -21,11 +21,11 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Animesh Srivastava"
   role = ""
-  organization = "Duke University"
+  organization = "Google"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Animesh.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "animeshs@cs.duke.edu"
+  email = "sranimeshs@gmail.com"
 #  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
@@ -126,12 +126,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:animeshs@cs.duke.edu"
+    link = "mailto:sranimeshs@gmail.com"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/animesh-srivastava-027a0b18/"
+    link = "https://www.linkedin.com/in/sranimesh/"
 
   [[params.social]]
     icon = "google-scholar"
