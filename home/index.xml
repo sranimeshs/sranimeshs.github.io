@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Welcome</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Animesh Srivastava</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Hello I have successfully defended my PhD at the Computer Science department at Duke University. My adviser is Dr. Landon Cox. I am a systems researcher and my research interests revolve around Mobile Computing and Internet of Things.
+My reserach projects have focussed on designing end-to-end systems to integrate efficient and scalable privacy modules to Android camera service. Other projects involve Computer Vision, Edge Computing, IoT, Augmented Reality and Machine Learning with applications to Cyber Physical Systems.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
