@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Computing | Welcome</title>
+    <link>https://sranimeshs.github.io/tag/mobile-computing/</link>
+      <atom:link href="https://sranimeshs.github.io/tag/mobile-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sranimeshs.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mobile Computing</title>
+      <link>https://sranimeshs.github.io/tag/mobile-computing/</link>
+    </image>
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>https://sranimeshs.github.io/publication/camforensics/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/camforensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ePrivateeye: to the edge and beyond!</title>
+      <link>https://sranimeshs.github.io/publication/eprivateeye/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/eprivateeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What You Mark is What Apps See</title>
+      <link>https://sranimeshs.github.io/publication/privateeye/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/privateeye/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

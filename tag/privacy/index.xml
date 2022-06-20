@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy | Welcome</title>
+    <link>https://sranimeshs.github.io/tag/privacy/</link>
+      <atom:link href="https://sranimeshs.github.io/tag/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Privacy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sranimeshs.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Privacy</title>
+      <link>https://sranimeshs.github.io/tag/privacy/</link>
+    </image>
+    
+    <item>
+      <title>Hark: A Deep Learning System for Navigating Privacy Feedback at Scale</title>
+      <link>https://sranimeshs.github.io/publication/hark/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/hark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>https://sranimeshs.github.io/publication/camforensics/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/camforensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ePrivateeye: to the edge and beyond!</title>
+      <link>https://sranimeshs.github.io/publication/eprivateeye/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/eprivateeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What You Mark is What Apps See</title>
+      <link>https://sranimeshs.github.io/publication/privateeye/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/privateeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hark</title>
+      <link>https://sranimeshs.github.io/project/hark/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/project/hark/</guid>
+      <description>&lt;p&gt;Integrating user feedback is one of the pillars for building successful products. However, this feedback is generally collected in an unstructured free-text form, which is challenging to understand at scale. This is particularly demanding in the privacy domain due to the nuances associated with the concept and the limited existing solutions. In this work, we present Hark, a system for discovering and summarizing privacy-related feedback at scale. Hark automates the entire process of summarizing privacy feedback, starting from unstructured tex and resulting in a hierarchy of high-level privacy themes and fine-grained issues within each theme, along with representative reviews for each issue. At the core of Hark is a set of new deep learning models trained on different tasks, such as privacy feedback classification, privacy issues generation, and high-level theme creation. We illustrate Hark’s efficacy on a corpus of 626M Google Play reviews. Out of this corpus, our privacy feedback classifier extracts 6M privacy-related reviews (with an AUC-ROC of 0.92). With three annotation studies, we show that Hark’s generated issues are of high accuracy and coverage and that the theme titles are of high quality. We illustrate Hark’s capabilities by presenting high-level insights from 1.3M Android apps.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

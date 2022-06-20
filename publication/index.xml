@@ -1,59 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Welcome</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Welcome</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Animesh Srivastava</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publications | Welcome</title>
+    <link>https://sranimeshs.github.io/publication/</link>
+      <atom:link href="https://sranimeshs.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sranimeshs.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://sranimeshs.github.io/publication/</link>
+    </image>
     
     <item>
-      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
-      <link>/publication/camforensics/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/camforensics/</guid>
+      <title>Hark: A Deep Learning System for Navigating Privacy Feedback at Scale</title>
+      <link>https://sranimeshs.github.io/publication/hark/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/hark/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ePrivateEye: To the Edge and Beyond!</title>
-      <link>/publication/eprivateeye/</link>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>https://sranimeshs.github.io/publication/camforensics/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://sranimeshs.github.io/publication/camforensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ePrivateeye: to the edge and beyond!</title>
+      <link>https://sranimeshs.github.io/publication/eprivateeye/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/eprivateeye/</guid>
+      <guid>https://sranimeshs.github.io/publication/eprivateeye/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What You Mark is What Apps See</title>
-      <link>/publication/privateeye/</link>
+      <link>https://sranimeshs.github.io/publication/privateeye/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/privateeye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Step-by-step detection of personally collocated mobile devices</title>
-      <link>/publication/colocation/</link>
-      <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/colocation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>If You See Something, Swipe towards It: Crowdsourced Event Localization Using Smartphones</title>
-      <link>/publication/isee/</link>
-      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/isee/</guid>
+      <guid>https://sranimeshs.github.io/publication/privateeye/</guid>
       <description></description>
     </item>
     
